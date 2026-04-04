@@ -1,0 +1,15 @@
+[project]
+name = "cartify"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi[standard]>=0.135.3",
+]
+
+[project.scripts]
+start = "main:start"
+
+[tool.uv]
+package = true
+[tool.fastapi]
+entrypoint = "main:app"

@@ -1,0 +1,8 @@
+main.py
+pyproject.toml
+cartify.egg-info/PKG-INFO
+cartify.egg-info/SOURCES.txt
+cartify.egg-info/dependency_links.txt
+cartify.egg-info/entry_points.txt
+cartify.egg-info/requires.txt
+cartify.egg-info/top_level.txt

@@ -1,0 +1,29 @@
+# Version Control
+.git
+.gitignore
+.github
+
+# Python environment & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / Build
+dist/
+build/
+*.egg-info/
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Cloud/System Metadata
+.DS_Store
+.idea/
+.vscode/
+.env
